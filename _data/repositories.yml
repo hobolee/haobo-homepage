@@ -1,12 +1,9 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - hobolee
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - hobolee/ENV_seq2seq
+  - hobolee/stock
+  - hobolee/ENV_time_interpolation
+  - hobolee/tether-calibration
+  - hobolee/1806
